@@ -1,0 +1,2 @@
+::ffff:127.0.0.1 - - [09/Sep/2023:02:31:18 +0000] "POST /api/auth/signup HTTP/1.1" 201 268 "-" "PostmanRuntime/7.32.3"
+::ffff:127.0.0.1 - - [09/Sep/2023:02:33:36 +0000] "POST /api/auth/signin HTTP/1.1" 200 252 "-" "PostmanRuntime/7.32.3"
